@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import { DownloadIcon } from './components/HeroSection/HeroElements'
+import { DownloadIcon } from './HeroSection/HeroElements'
 
 export const Button = styled(Link)`
   border-radius: 50px;

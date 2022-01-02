@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button as CtaButton } from '../../ButtonElement'
+import { Button as CtaButton } from '../ButtonElement'
 import mainsvg5 from '../../assets/images/mainsvg5.svg'
 import { DownloadIcon } from '../HeroSection/HeroElements'
 import {

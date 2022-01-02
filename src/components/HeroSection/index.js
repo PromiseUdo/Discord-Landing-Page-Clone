@@ -2,7 +2,7 @@ import React from 'react'
 import herobg from '../../assets/images/herobg.svg'
 import IllustrationOne from '../../assets/images/illustration-one.svg'
 import IllustrationTwo from '../../assets/images/illustration-two.svg'
-import { Button } from '../../ButtonElement'
+import { Button } from '../ButtonElement'
 import {
   HeroContainer,
   HeroBg,
